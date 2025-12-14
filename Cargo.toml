@@ -5,8 +5,8 @@ license = "Apache-2.0"
 version = "0.1.0"
 edition = "2021"
 description = "The library to generate Gate circuits (second version)."
-repository = "https://github.com/matszpk/gategen"
-documentation = "https://docs.rs/gategen"
+repository = "https://github.com/matszpk/gategen2"
+documentation = "https://docs.rs/gategen2"
 keywords = ["gate", "logic", "circuit"]
 categories = ["science", "mathematics"]
 
