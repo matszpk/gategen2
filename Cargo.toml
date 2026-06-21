@@ -2,7 +2,7 @@
 name = "gategen2"
 authors = ["Mateusz Szpakowski"]
 license = "Apache-2.0"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "The library to generate Gate circuits (second version)."
 repository = "https://github.com/matszpk/gategen2"
@@ -11,7 +11,7 @@ keywords = ["gate", "logic", "circuit"]
 categories = ["science", "mathematics"]
 
 [dependencies]
-gateutil = "0.1.0"
+gateutil = "0.2.0"
 gate_calc_log_bits = "0.1.0"
 itoap = "1.0"
 thiserror = "2.0"
